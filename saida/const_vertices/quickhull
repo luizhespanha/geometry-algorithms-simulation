@@ -1,0 +1,11 @@
+geocomp/convexhull/quickhull.py :
+const_vertices-8-0008 : 52    0.04 s    vertices: 8
+const_vertices-8-0016 : 84    0.06 s    vertices: 8
+const_vertices-8-0032 : 148    0.09 s    vertices: 8
+const_vertices-8-0064 : 276    0.16 s    vertices: 8
+const_vertices-8-0128 : 532    0.30 s    vertices: 8
+const_vertices-8-0256 : 1044    0.59 s    vertices: 8
+const_vertices-8-0512 : 2068    1.18 s    vertices: 8
+const_vertices-8-1024 : 4116    2.35 s    vertices: 8
+const_vertices-8-2048 : 8212    4.71 s    vertices: 8
+const_vertices-8-4096 : 16404    9.40 s    vertices: 8

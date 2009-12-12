@@ -1,0 +1,56 @@
+geocomp/convexhull/incr_prob.py :
+circ-012-10000 : 88    0.08 s    vertices: 12
+circ-025-10000 : 249    0.26 s    vertices: 25
+circ-050-10000 : 682    0.76 s    vertices: 50
+circ-100-10000 : 1767    2.37 s    vertices: 100
+circ-200-10000 : 3890    7.28 s    vertices: 200
+circ-400-10000 : 9099    24.36 s    vertices: 400
+circ-800-10000 : 21164    88.19 s    vertices: 800
+geocomp/convexhull/incr_prob :
+circ-012-10000 : 117    0.10 s    vertices: 12
+circ-025-10000 : 379    0.34 s    vertices: 25
+circ-050-10000 : 697    0.77 s    vertices: 50
+circ-100-10000 : 1627    2.29 s    vertices: 100
+circ-200-10000 : 4014    7.33 s    vertices: 200
+circ-400-10000 : 7904    23.70 s    vertices: 400
+circ-800-10000 : 19066    87.61 s    vertices: 800
+geocomp/convexhull/incr_prob :
+circ-012-10000 : 94    0.09 s    vertices: 12
+circ-025-10000 : 286    0.28 s    vertices: 25
+circ-050-10000 : 712    0.78 s    vertices: 50
+circ-100-10000 : 1608    2.27 s    vertices: 100
+circ-200-10000 : 3569    6.97 s    vertices: 200
+circ-400-10000 : 9126    24.75 s    vertices: 400
+circ-800-10000 : 19490    87.71 s    vertices: 800
+geocomp/convexhull/incr_prob :
+circ-012-10000 : 90    0.08 s    vertices: 12
+circ-025-10000 : 252    0.26 s    vertices: 25
+circ-050-10000 : 635    0.75 s    vertices: 50
+circ-100-10000 : 1804    2.38 s    vertices: 100
+circ-200-10000 : 3723    7.11 s    vertices: 200
+circ-400-10000 : 8858    24.43 s    vertices: 400
+circ-800-10000 : 22149    89.42 s    vertices: 800
+geocomp/convexhull/incr_prob.py :
+circ-500-10000 : 10778    35.46 s    vertices: 500
+circ-600-10000 : 14335    51.19 s    vertices: 600
+circ-700-10000 : 15933    68.24 s    vertices: 700
+geocomp/convexhull/incr_prob.py :
+circ-500-10000 : 11942    36.53 s    vertices: 500
+circ-600-10000 : 14344    52.05 s    vertices: 600
+circ-700-10000 : 17922    71.06 s    vertices: 700
+geocomp/convexhull/incr_prob.py :
+circ-500-10000 : 12458    36.76 s    vertices: 500
+circ-600-10000 : 13473    51.46 s    vertices: 600
+circ-700-10000 : 16661    70.51 s    vertices: 700
+geocomp/convexhull/incr_prob.py :
+circ-500-10000 : 10068    35.05 s    vertices: 500
+circ-600-10000 : 14598    51.90 s    vertices: 600
+circ-700-10000 : 16750    69.85 s    vertices: 700
+geocomp/convexhull/incr_prob.py :
+circ-300-10000 : 7128    15.07 s    vertices: 300
+geocomp/convexhull/incr_prob.py :
+circ-300-10000 : 6617    14.82 s    vertices: 300
+geocomp/convexhull/incr_prob.py :
+circ-300-10000 : 6339    14.62 s    vertices: 300
+geocomp/convexhull/incr_prob.py :
+circ-300-10000 : 6177    14.51 s    vertices: 300

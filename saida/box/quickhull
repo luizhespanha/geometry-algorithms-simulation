@@ -1,0 +1,16 @@
+geocomp/convexhull/quickhull.py :
+box-0008 : 40    0.03 s    vertices: 5
+box-0016 : 99    0.06 s    vertices: 8
+box-0032 : 188    0.11 s    vertices: 10
+box-0064 : 397    0.23 s    vertices: 13
+box-0128 : 724    0.41 s    vertices: 11
+box-0256 : 1479    0.82 s    vertices: 14
+box-0512 : 3107    1.72 s    vertices: 16
+box-1024 : 6217    3.46 s    vertices: 16
+box-2048 : 10855    6.10 s    vertices: 20
+box-4096 : 23719    13.32 s    vertices: 22
+geocomp/convexhull/quickhull.py :
+box-1500 : 8363    4.85 s    vertices: 20
+box-2500 : 14841    8.75 s    vertices: 20
+box-3000 : 17407    10.39 s    vertices: 18
+box-3500 : 19424    11.58 s    vertices: 22

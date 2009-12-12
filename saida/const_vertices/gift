@@ -1,0 +1,11 @@
+geocomp/convexhull/gift.py :
+const_vertices-8-0008 : 51    0.03 s    vertices: 8
+const_vertices-8-0016 : 115    0.07 s    vertices: 8
+const_vertices-8-0032 : 240    0.13 s    vertices: 8
+const_vertices-8-0064 : 496    0.27 s    vertices: 8
+const_vertices-8-0128 : 1008    0.56 s    vertices: 8
+const_vertices-8-0256 : 2032    1.11 s    vertices: 8
+const_vertices-8-0512 : 4080    2.23 s    vertices: 8
+const_vertices-8-1024 : 8176    4.48 s    vertices: 8
+const_vertices-8-2048 : 16368    9.11 s    vertices: 8
+const_vertices-8-4096 : 32752    18.21 s    vertices: 8

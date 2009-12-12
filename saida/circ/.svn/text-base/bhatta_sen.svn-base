@@ -1,0 +1,56 @@
+geocomp/convexhull/bhatta_sen.py :
+circ-012-10000 : 76    0.06 s    vertices: 12
+circ-025-10000 : 235    0.17 s    vertices: 25
+circ-050-10000 : 622    0.45 s    vertices: 50
+circ-100-10000 : 1511    1.08 s    vertices: 100
+circ-200-10000 : 3554    2.53 s    vertices: 200
+circ-400-10000 : 7971    5.66 s    vertices: 400
+circ-800-10000 : 18204    12.89 s    vertices: 800
+geocomp/convexhull/bhatta_sen :
+circ-012-10000 : 76    0.05 s    vertices: 12
+circ-025-10000 : 260    0.19 s    vertices: 25
+circ-050-10000 : 619    0.44 s    vertices: 50
+circ-100-10000 : 1452    1.04 s    vertices: 100
+circ-200-10000 : 3527    2.51 s    vertices: 200
+circ-400-10000 : 8323    5.89 s    vertices: 400
+circ-800-10000 : 18054    12.82 s    vertices: 800
+geocomp/convexhull/bhatta_sen :
+circ-012-10000 : 77    0.06 s    vertices: 12
+circ-025-10000 : 262    0.19 s    vertices: 25
+circ-050-10000 : 595    0.43 s    vertices: 50
+circ-100-10000 : 1465    1.05 s    vertices: 100
+circ-200-10000 : 3507    2.51 s    vertices: 200
+circ-400-10000 : 8080    5.75 s    vertices: 400
+circ-800-10000 : 18270    12.96 s    vertices: 800
+geocomp/convexhull/bhatta_sen :
+circ-012-10000 : 77    0.06 s    vertices: 12
+circ-025-10000 : 245    0.18 s    vertices: 25
+circ-050-10000 : 598    0.43 s    vertices: 50
+circ-100-10000 : 1509    1.08 s    vertices: 100
+circ-200-10000 : 3524    2.51 s    vertices: 200
+circ-400-10000 : 7967    5.66 s    vertices: 400
+circ-800-10000 : 18303    12.93 s    vertices: 800
+geocomp/convexhull/bhatta_sen.py :
+circ-500-10000 : 10496    7.40 s    vertices: 500
+circ-600-10000 : 13278    9.40 s    vertices: 600
+circ-700-10000 : 15783    11.22 s    vertices: 700
+geocomp/convexhull/bhatta_sen.py :
+circ-500-10000 : 10574    7.47 s    vertices: 500
+circ-600-10000 : 12924    9.16 s    vertices: 600
+circ-700-10000 : 15489    11.02 s    vertices: 700
+geocomp/convexhull/bhatta_sen.py :
+circ-500-10000 : 10736    7.58 s    vertices: 500
+circ-600-10000 : 13182    9.36 s    vertices: 600
+circ-700-10000 : 15436    11.01 s    vertices: 700
+geocomp/convexhull/bhatta_sen.py :
+circ-500-10000 : 10377    7.35 s    vertices: 500
+circ-600-10000 : 12853    9.12 s    vertices: 600
+circ-700-10000 : 15310    10.91 s    vertices: 700
+geocomp/convexhull/bhatta_sen.py :
+circ-300-10000 : 5736    4.04 s    vertices: 300
+geocomp/convexhull/bhatta_sen.py :
+circ-300-10000 : 6036    4.24 s    vertices: 300
+geocomp/convexhull/bhatta_sen.py :
+circ-300-10000 : 5643    4.00 s    vertices: 300
+geocomp/convexhull/bhatta_sen.py :
+circ-300-10000 : 5695    4.03 s    vertices: 300

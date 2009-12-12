@@ -1,0 +1,44 @@
+geocomp/convexhull/bhatta_sen.py :
+const_vertices-8-0008 : 32    0.02 s    vertices: 8
+const_vertices-8-0016 : 64    0.04 s    vertices: 8
+const_vertices-8-0032 : 128    0.08 s    vertices: 8
+const_vertices-8-0064 : 256    0.15 s    vertices: 8
+const_vertices-8-0128 : 512    0.30 s    vertices: 8
+const_vertices-8-0256 : 1024    0.60 s    vertices: 8
+const_vertices-8-0512 : 2048    1.18 s    vertices: 8
+const_vertices-8-1024 : 4096    2.37 s    vertices: 8
+const_vertices-8-2048 : 8192    4.77 s    vertices: 8
+const_vertices-8-4096 : 16384    9.52 s    vertices: 8
+geocomp/convexhull/bhatta_sen :
+const_vertices-8-0008 : 32    0.03 s    vertices: 8
+const_vertices-8-0016 : 64    0.04 s    vertices: 8
+const_vertices-8-0032 : 128    0.08 s    vertices: 8
+const_vertices-8-0064 : 256    0.15 s    vertices: 8
+const_vertices-8-0128 : 512    0.30 s    vertices: 8
+const_vertices-8-0256 : 1024    0.59 s    vertices: 8
+const_vertices-8-0512 : 2048    1.17 s    vertices: 8
+const_vertices-8-1024 : 4096    2.38 s    vertices: 8
+const_vertices-8-2048 : 8192    4.75 s    vertices: 8
+const_vertices-8-4096 : 16384    9.54 s    vertices: 8
+geocomp/convexhull/bhatta_sen :
+const_vertices-8-0008 : 32    0.02 s    vertices: 8
+const_vertices-8-0016 : 64    0.04 s    vertices: 8
+const_vertices-8-0032 : 128    0.08 s    vertices: 8
+const_vertices-8-0064 : 256    0.15 s    vertices: 8
+const_vertices-8-0128 : 512    0.30 s    vertices: 8
+const_vertices-8-0256 : 1024    0.59 s    vertices: 8
+const_vertices-8-0512 : 2048    1.18 s    vertices: 8
+const_vertices-8-1024 : 4096    2.37 s    vertices: 8
+const_vertices-8-2048 : 8192    4.75 s    vertices: 8
+const_vertices-8-4096 : 16384    9.58 s    vertices: 8
+geocomp/convexhull/bhatta_sen :
+const_vertices-8-0008 : 32    0.03 s    vertices: 8
+const_vertices-8-0016 : 64    0.05 s    vertices: 8
+const_vertices-8-0032 : 128    0.08 s    vertices: 8
+const_vertices-8-0064 : 256    0.15 s    vertices: 8
+const_vertices-8-0128 : 512    0.30 s    vertices: 8
+const_vertices-8-0256 : 1024    0.59 s    vertices: 8
+const_vertices-8-0512 : 2048    1.18 s    vertices: 8
+const_vertices-8-1024 : 4096    2.38 s    vertices: 8
+const_vertices-8-2048 : 8192    4.79 s    vertices: 8
+const_vertices-8-4096 : 16384    9.64 s    vertices: 8

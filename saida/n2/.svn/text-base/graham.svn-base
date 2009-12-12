@@ -1,0 +1,14 @@
+geocomp/convexhull/graham.py :
+n2-004-800 : 9160    5.45 s    vertices: 4
+n2-008-800 : 9107    5.47 s    vertices: 8
+n2-016-800 : 9132    5.49 s    vertices: 16
+n2-032-800 : 9069    5.43 s    vertices: 32
+n2-064-800 : 9034    5.41 s    vertices: 64
+n2-128-800 : 8957    5.39 s    vertices: 128
+n2-256-800 : 8871    5.37 s    vertices: 256
+n2-512-800 : 8633    5.33 s    vertices: 512
+geocomp/convexhull/graham.py :
+n2-150-800 : 8969    5.40 s    vertices: 150
+n2-200-800 : 8960    5.51 s    vertices: 200
+n2-300-800 : 8907    5.50 s    vertices: 300
+n2-400-800 : 8726    5.44 s    vertices: 400

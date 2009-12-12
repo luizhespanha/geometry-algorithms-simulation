@@ -1,0 +1,14 @@
+geocomp/convexhull/graham.py :
+circ-012-10000 : 45    0.04 s    vertices: 12
+circ-025-10000 : 126    0.09 s    vertices: 25
+circ-050-10000 : 307    0.21 s    vertices: 50
+circ-100-10000 : 716    0.47 s    vertices: 100
+circ-200-10000 : 1723    1.11 s    vertices: 200
+circ-400-10000 : 3770    2.40 s    vertices: 400
+circ-800-10000 : 8340    5.26 s    vertices: 800
+geocomp/convexhull/graham.py :
+circ-500-10000 : 4837    3.08 s    vertices: 500
+circ-600-10000 : 5936    3.84 s    vertices: 600
+circ-700-10000 : 7112    4.55 s    vertices: 700
+geocomp/convexhull/graham.py :
+circ-300-10000 : 2665    1.70 s    vertices: 300

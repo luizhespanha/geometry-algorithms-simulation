@@ -1,0 +1,11 @@
+geocomp/convexhull/graham.py :
+const_vertices-8-0008 : 26    0.02 s    vertices: 8
+const_vertices-8-0016 : 78    0.05 s    vertices: 8
+const_vertices-8-0032 : 198    0.13 s    vertices: 8
+const_vertices-8-0064 : 474    0.29 s    vertices: 8
+const_vertices-8-0128 : 1094    0.67 s    vertices: 8
+const_vertices-8-0256 : 2458    1.48 s    vertices: 8
+const_vertices-8-0512 : 5489    3.26 s    vertices: 8
+const_vertices-8-1024 : 12133    7.23 s    vertices: 8
+const_vertices-8-2048 : 26356    15.68 s    vertices: 8
+const_vertices-8-4096 : 56750    33.80 s    vertices: 8

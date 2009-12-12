@@ -1,0 +1,16 @@
+geocomp/convexhull/graham.py :
+box-0008 : 29    0.02 s    vertices: 5
+box-0016 : 77    0.05 s    vertices: 8
+box-0032 : 198    0.13 s    vertices: 10
+box-0064 : 468    0.30 s    vertices: 13
+box-0128 : 1090    0.66 s    vertices: 11
+box-0256 : 2545    1.53 s    vertices: 14
+box-0512 : 5458    3.25 s    vertices: 16
+box-1024 : 12067    7.20 s    vertices: 16
+box-2048 : 26200    15.65 s    vertices: 20
+box-4096 : 56603    33.71 s    vertices: 22
+geocomp/convexhull/graham.py :
+box-1500 : 18424    11.98 s    vertices: 20
+box-2500 : 32915    21.55 s    vertices: 20
+box-3000 : 39936    26.31 s    vertices: 18
+box-3500 : 47419    30.08 s    vertices: 22

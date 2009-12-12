@@ -1,0 +1,14 @@
+geocomp/convexhull/incremental.py :
+circ-012-10000 : 82    0.08 s    vertices: 12
+circ-025-10000 : 342    0.29 s    vertices: 25
+circ-050-10000 : 1317    1.10 s    vertices: 50
+circ-100-10000 : 5142    4.22 s    vertices: 100
+circ-200-10000 : 20292    16.69 s    vertices: 200
+circ-400-10000 : 80592    66.54 s    vertices: 400
+circ-800-10000 : 321192    268.81 s    vertices: 800
+geocomp/convexhull/incremental.py :
+circ-500-10000 : 125742    102.57 s    vertices: 500
+circ-600-10000 : 180892    149.65 s    vertices: 600
+circ-700-10000 : 246042    206.55 s    vertices: 700
+geocomp/convexhull/incremental.py :
+circ-300-10000 : 45442    37.15 s    vertices: 300

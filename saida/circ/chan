@@ -1,0 +1,14 @@
+geocomp/convexhull/chan.py :
+circ-012-10000 : 130    0.12 s    vertices: 12
+circ-025-10000 : 574    0.59 s    vertices: 25
+circ-050-10000 : 1147    1.47 s    vertices: 50
+circ-100-10000 : 2285    4.03 s    vertices: 100
+circ-200-10000 : 4763    12.71 s    vertices: 200
+circ-400-10000 : 15723    70.63 s    vertices: 400
+circ-800-10000 : 31331    216.36 s    vertices: 800
+geocomp/convexhull/chan.py :
+circ-500-10000 : 19328    98.53 s    vertices: 500
+circ-600-10000 : 23408    134.77 s    vertices: 600
+circ-700-10000 : 27033    174.20 s    vertices: 700
+geocomp/convexhull/chan.py :
+circ-300-10000 : 12330    46.35 s    vertices: 300

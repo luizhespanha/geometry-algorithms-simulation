@@ -1,0 +1,14 @@
+geocomp/convexhull/chan.py :
+n2-004-800 : 4876    3.69 s    vertices: 4
+n2-008-800 : 5479    4.36 s    vertices: 8
+n2-016-800 : 6744    5.77 s    vertices: 16
+n2-032-800 : 14770    11.10 s    vertices: 32
+n2-064-800 : 15137    11.95 s    vertices: 64
+n2-128-800 : 16038    15.26 s    vertices: 128
+n2-256-800 : 17976    27.59 s    vertices: 256
+n2-512-800 : 29921    112.51 s    vertices: 512
+geocomp/convexhull/chan.py :
+n2-150-800 : 16400    16.82 s    vertices: 150
+n2-200-800 : 17154    21.43 s    vertices: 200
+n2-300-800 : 28945    59.56 s    vertices: 300
+n2-400-800 : 29397    81.99 s    vertices: 400

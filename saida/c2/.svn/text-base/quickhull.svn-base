@@ -1,0 +1,16 @@
+geocomp/convexhull/quickhull.py :
+c2-8-0008 : 55    0.04 s    vertices: 8
+c2-8-0016 : 87    0.05 s    vertices: 8
+c2-8-0032 : 157    0.09 s    vertices: 8
+c2-8-0064 : 303    0.18 s    vertices: 8
+c2-8-0128 : 580    0.32 s    vertices: 8
+c2-8-0256 : 1173    0.65 s    vertices: 8
+c2-8-0512 : 2086    1.16 s    vertices: 8
+c2-8-1024 : 4173    2.32 s    vertices: 8
+c2-8-2048 : 8977    5.06 s    vertices: 8
+c2-8-4096 : 19776    11.04 s    vertices: 8
+geocomp/convexhull/quickhull.py :
+c2-8-1500 : 6872    3.84 s    vertices: 8
+c2-8-2500 : 11844    6.72 s    vertices: 8
+c2-8-3000 : 12194    6.94 s    vertices: 8
+c2-8-3500 : 15454    8.91 s    vertices: 8

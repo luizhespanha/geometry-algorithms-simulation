@@ -1,0 +1,16 @@
+geocomp/convexhull/mergehull.py :
+c2-8-0008 : 34    0.04 s    vertices: 8
+c2-8-0016 : 93    0.10 s    vertices: 8
+c2-8-0032 : 207    0.22 s    vertices: 8
+c2-8-0064 : 448    0.46 s    vertices: 8
+c2-8-0128 : 902    0.93 s    vertices: 8
+c2-8-0256 : 1826    1.89 s    vertices: 8
+c2-8-0512 : 3685    3.85 s    vertices: 8
+c2-8-1024 : 7359    7.72 s    vertices: 8
+c2-8-2048 : 14828    15.66 s    vertices: 8
+c2-8-4096 : 29571    31.38 s    vertices: 8
+geocomp/convexhull/mergehull.py :
+c2-8-1500 : 10188    11.06 s    vertices: 8
+c2-8-2500 : 17272    18.79 s    vertices: 8
+c2-8-3000 : 20421    22.44 s    vertices: 8
+c2-8-3500 : 24482    26.52 s    vertices: 8

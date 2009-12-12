@@ -1,0 +1,14 @@
+geocomp/convexhull/quickhull.py :
+circ-012-10000 : 103    0.07 s    vertices: 12
+circ-025-10000 : 292    0.18 s    vertices: 25
+circ-050-10000 : 751    0.45 s    vertices: 50
+circ-100-10000 : 1780    1.05 s    vertices: 100
+circ-200-10000 : 4168    2.43 s    vertices: 200
+circ-400-10000 : 9565    5.55 s    vertices: 400
+circ-800-10000 : 21475    12.41 s    vertices: 800
+geocomp/convexhull/quickhull.py :
+circ-500-10000 : 12460    7.16 s    vertices: 500
+circ-600-10000 : 15406    8.88 s    vertices: 600
+circ-700-10000 : 18430    10.66 s    vertices: 700
+geocomp/convexhull/quickhull.py :
+circ-300-10000 : 6814    3.91 s    vertices: 300

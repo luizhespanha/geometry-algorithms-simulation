@@ -1,0 +1,16 @@
+geocomp/convexhull/gift.py :
+box-0008 : 33    0.02 s    vertices: 5
+box-0016 : 112    0.06 s    vertices: 8
+box-0032 : 300    0.17 s    vertices: 10
+box-0064 : 806    0.44 s    vertices: 13
+box-0128 : 1386    0.75 s    vertices: 11
+box-0256 : 3556    1.92 s    vertices: 14
+box-0512 : 8160    4.43 s    vertices: 16
+box-1024 : 16352    8.87 s    vertices: 16
+box-2048 : 40920    22.30 s    vertices: 20
+box-4096 : 90068    49.38 s    vertices: 22
+geocomp/convexhull/gift.py :
+box-1500 : 29960    16.80 s    vertices: 20
+box-2500 : 49960    28.15 s    vertices: 20
+box-3000 : 53964    30.45 s    vertices: 18
+box-3500 : 76956    43.70 s    vertices: 22

@@ -1,0 +1,9 @@
+geocomp/convexhull/incremental.py :
+n_vertices-004-800 : 8338    5.40 s    vertices: 4
+n_vertices-008-800 : 8309    5.37 s    vertices: 8
+n_vertices-016-800 : 9769    6.20 s    vertices: 16
+n_vertices-032-800 : 15601    9.82 s    vertices: 32
+n_vertices-064-800 : 27452    17.29 s    vertices: 64
+n_vertices-128-800 : 54394    35.32 s    vertices: 128
+n_vertices-256-800 : 100000    69.56 s    vertices: 256
+n_vertices-512-800 : 205173    156.44 s    vertices: 512

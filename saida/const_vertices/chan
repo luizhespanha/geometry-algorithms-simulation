@@ -1,0 +1,11 @@
+geocomp/convexhull/chan.py :
+const_vertices-8-0008 : 35    0.05 s    vertices: 8
+const_vertices-8-0016 : 87    0.09 s    vertices: 8
+const_vertices-8-0032 : 192    0.16 s    vertices: 8
+const_vertices-8-0064 : 410    0.33 s    vertices: 8
+const_vertices-8-0128 : 862    0.70 s    vertices: 8
+const_vertices-8-0256 : 1728    1.41 s    vertices: 8
+const_vertices-8-0512 : 3502    2.84 s    vertices: 8
+const_vertices-8-1024 : 7029    5.75 s    vertices: 8
+const_vertices-8-2048 : 14049    11.49 s    vertices: 8
+const_vertices-8-4096 : 28138    23.00 s    vertices: 8

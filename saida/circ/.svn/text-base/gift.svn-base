@@ -1,0 +1,14 @@
+geocomp/convexhull/gift.py :
+circ-012-10000 : 123    0.07 s    vertices: 12
+circ-025-10000 : 578    0.32 s    vertices: 25
+circ-050-10000 : 2403    1.29 s    vertices: 50
+circ-100-10000 : 9803    5.26 s    vertices: 100
+circ-200-10000 : 39603    21.37 s    vertices: 200
+circ-400-10000 : 159203    85.63 s    vertices: 400
+circ-800-10000 : 638403    349.74 s    vertices: 800
+geocomp/convexhull/gift.py :
+circ-500-10000 : 249003    133.26 s    vertices: 500
+circ-600-10000 : 358803    193.43 s    vertices: 600
+circ-700-10000 : 488603    268.04 s    vertices: 700
+geocomp/convexhull/gift.py :
+circ-300-10000 : 89403    47.69 s    vertices: 300

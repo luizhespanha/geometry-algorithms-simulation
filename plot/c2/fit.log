@@ -1,0 +1,284 @@
+
+
+*******************************************************************************
+Mon Jul  9 23:33:24 2001
+
+
+FIT:    data read from 'graham'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: nlogn(x)
+
+
+*******************************************************************************
+Mon Jul  9 23:34:32 2001
+
+
+FIT:    data read from 'graham'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: nlogn(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1.50779e+09       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 15499.5
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 245230
+rel. change during last iteration : 0
+
+degrees of freedom (ndf) : 13
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 137.346
+variance of residuals (reduced chisquare) = WSSR/ndf : 18863.8
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.66951          +/- 0.002368     (0.1419%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Mon Jul  9 23:38:23 2001
+
+
+FIT:    data read from 'graham'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: n(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 7.18767e+09       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 1929.46
+
+initial set of free parameter values
+
+a               = 1.66951
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.48305e+07
+rel. change during last iteration : -1.09515e-06
+
+degrees of freedom (ndf) : 13
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 1068.09
+variance of residuals (reduced chisquare) = WSSR/ndf : 1.14081e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 13.4008          +/- 0.1479       (1.104%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Mon Jul  9 23:39:07 2001
+
+
+FIT:    data read from 'graham'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: n(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1.48305e+07       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 1364.34
+
+initial set of free parameter values
+
+a               = 13.4008
+b               = 1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.48305e+07
+rel. change during last iteration : -3.76786e-16
+
+degrees of freedom (ndf) : 12
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 1111.7
+variance of residuals (reduced chisquare) = WSSR/ndf : 1.23588e+06
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Mon Jul  9 23:40:31 2001
+
+
+FIT:    data read from 'mergehull'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: nlogn(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 5.27615e+11       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 15499.5
+
+initial set of free parameter values
+
+a               = 13.4008
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 5.04075e+06
+rel. change during last iteration : -1.34874e-14
+
+degrees of freedom (ndf) : 13
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 622.696
+variance of residuals (reduced chisquare) = WSSR/ndf : 387750
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.875834         +/- 0.01074      (1.226%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Mon Jul  9 23:41:01 2001
+
+
+FIT:    data read from 'mergehull'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: n(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1.98217e+09       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 1364.34
+
+initial set of free parameter values
+
+a               = 0.875834
+b               = 1.001
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.49893e+06
+rel. change during last iteration : -2.00266e-07
+
+degrees of freedom (ndf) : 12
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 353.428
+variance of residuals (reduced chisquare) = WSSR/ndf : 124911
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Mon Jul  9 23:41:06 2001
+
+
+FIT:    data read from 'mergehull'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: nlogn(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1.27817e+11       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 15499.5
+
+initial set of free parameter values
+
+a               = 7.04044
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 5.04075e+06
+rel. change during last iteration : -4.61897e-15
+
+degrees of freedom (ndf) : 13
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 622.696
+variance of residuals (reduced chisquare) = WSSR/ndf : 387750
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.875834         +/- 0.01074      (1.226%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Mon Jul  9 23:41:12 2001
+
+
+FIT:    data read from 'mergehull'
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: n(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1.98217e+09       delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-05
+lambda	  : 1364.34
+
+initial set of free parameter values
+
+a               = 0.875834
+b               = 1.002
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.49893e+06
+rel. change during last iteration : -2.00266e-07
+
+degrees of freedom (ndf) : 12
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 353.428
+variance of residuals (reduced chisquare) = WSSR/ndf : 124911
+
+BREAK:          Singular matrix in Invert_RtR
+

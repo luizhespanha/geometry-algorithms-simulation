@@ -1,0 +1,64 @@
+geocomp/convexhull/bhatta_sen.py :
+c2-8-0008 : 41    0.03 s    vertices: 8
+c2-8-0016 : 73    0.05 s    vertices: 8
+c2-8-0032 : 147    0.10 s    vertices: 8
+c2-8-0064 : 280    0.17 s    vertices: 8
+c2-8-0128 : 555    0.32 s    vertices: 8
+c2-8-0256 : 1122    0.66 s    vertices: 8
+c2-8-0512 : 2075    1.19 s    vertices: 8
+c2-8-1024 : 4150    2.40 s    vertices: 8
+c2-8-2048 : 8728    5.14 s    vertices: 8
+c2-8-4096 : 18684    11.14 s    vertices: 8
+geocomp/convexhull/bhatta_sen :
+c2-8-0008 : 41    0.03 s    vertices: 8
+c2-8-0016 : 73    0.05 s    vertices: 8
+c2-8-0032 : 147    0.09 s    vertices: 8
+c2-8-0064 : 279    0.17 s    vertices: 8
+c2-8-0128 : 554    0.33 s    vertices: 8
+c2-8-0256 : 1119    0.66 s    vertices: 8
+c2-8-0512 : 2073    1.20 s    vertices: 8
+c2-8-1024 : 4158    2.44 s    vertices: 8
+c2-8-2048 : 8730    5.17 s    vertices: 8
+c2-8-4096 : 18687    11.22 s    vertices: 8
+geocomp/convexhull/bhatta_sen :
+c2-8-0008 : 41    0.03 s    vertices: 8
+c2-8-0016 : 73    0.05 s    vertices: 8
+c2-8-0032 : 147    0.10 s    vertices: 8
+c2-8-0064 : 279    0.17 s    vertices: 8
+c2-8-0128 : 555    0.33 s    vertices: 8
+c2-8-0256 : 1121    0.67 s    vertices: 8
+c2-8-0512 : 2069    1.20 s    vertices: 8
+c2-8-1024 : 4157    2.42 s    vertices: 8
+c2-8-2048 : 8743    5.18 s    vertices: 8
+c2-8-4096 : 18676    11.23 s    vertices: 8
+geocomp/convexhull/bhatta_sen :
+c2-8-0008 : 41    0.03 s    vertices: 8
+c2-8-0016 : 73    0.05 s    vertices: 8
+c2-8-0032 : 147    0.10 s    vertices: 8
+c2-8-0064 : 280    0.17 s    vertices: 8
+c2-8-0128 : 555    0.33 s    vertices: 8
+c2-8-0256 : 1120    0.66 s    vertices: 8
+c2-8-0512 : 2070    1.21 s    vertices: 8
+c2-8-1024 : 4156    2.43 s    vertices: 8
+c2-8-2048 : 8729    5.21 s    vertices: 8
+c2-8-4096 : 18742    11.24 s    vertices: 8
+geocomp/convexhull/bhatta_sen.py :
+c2-8-1500 : 6596    3.90 s    vertices: 8
+c2-8-2500 : 11277    6.85 s    vertices: 8
+c2-8-3000 : 12135    7.20 s    vertices: 8
+c2-8-3500 : 15009    8.97 s    vertices: 8
+geocomp/convexhull/bhatta_sen.py :
+c2-8-1500 : 6606    3.92 s    vertices: 8
+c2-8-2500 : 11272    6.81 s    vertices: 8
+c2-8-3000 : 12144    7.15 s    vertices: 8
+c2-8-3500 : 15001    8.89 s    vertices: 8
+geocomp/convexhull/bhatta_sen.py :
+c2-8-1500 : 6604    3.91 s    vertices: 8
+c2-8-2500 : 11268    6.79 s    vertices: 8
+c2-8-3000 : 12147    7.17 s    vertices: 8
+c2-8-3500 : 15000    8.97 s    vertices: 8
+geocomp/convexhull/bhatta_sen.py :
+c2-8-1500 : 6600    3.92 s    vertices: 8
+c2-8-2500 : 11265    6.75 s    vertices: 8
+c2-8-3000 : 12138    7.21 s    vertices: 8
+c2-8-3500 : 15000    9.00 s    vertices: 8

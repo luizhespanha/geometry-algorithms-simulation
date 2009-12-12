@@ -1,0 +1,64 @@
+geocomp/convexhull/incr_prob.py :
+c2-8-0008 : 60    0.05 s    vertices: 8
+c2-8-0016 : 124    0.10 s    vertices: 8
+c2-8-0032 : 338    0.26 s    vertices: 8
+c2-8-0064 : 841    0.62 s    vertices: 8
+c2-8-0128 : 1195    0.90 s    vertices: 8
+c2-8-0256 : 2661    1.97 s    vertices: 8
+c2-8-0512 : 5966    4.40 s    vertices: 8
+c2-8-1024 : 11547    8.27 s    vertices: 8
+c2-8-2048 : 26996    19.59 s    vertices: 8
+c2-8-4096 : 51605    37.74 s    vertices: 8
+geocomp/convexhull/incr_prob :
+c2-8-0008 : 55    0.05 s    vertices: 8
+c2-8-0016 : 142    0.11 s    vertices: 8
+c2-8-0032 : 280    0.22 s    vertices: 8
+c2-8-0064 : 507    0.37 s    vertices: 8
+c2-8-0128 : 1570    1.17 s    vertices: 8
+c2-8-0256 : 2554    1.87 s    vertices: 8
+c2-8-0512 : 6209    4.54 s    vertices: 8
+c2-8-1024 : 16925    11.82 s    vertices: 8
+c2-8-2048 : 28651    20.28 s    vertices: 8
+c2-8-4096 : 51003    37.27 s    vertices: 8
+geocomp/convexhull/incr_prob :
+c2-8-0008 : 52    0.05 s    vertices: 8
+c2-8-0016 : 115    0.09 s    vertices: 8
+c2-8-0032 : 309    0.23 s    vertices: 8
+c2-8-0064 : 679    0.51 s    vertices: 8
+c2-8-0128 : 1515    1.08 s    vertices: 8
+c2-8-0256 : 3442    2.50 s    vertices: 8
+c2-8-0512 : 5764    4.24 s    vertices: 8
+c2-8-1024 : 12002    8.79 s    vertices: 8
+c2-8-2048 : 26378    19.49 s    vertices: 8
+c2-8-4096 : 61491    44.38 s    vertices: 8
+geocomp/convexhull/incr_prob :
+c2-8-0008 : 62    0.05 s    vertices: 8
+c2-8-0016 : 184    0.14 s    vertices: 8
+c2-8-0032 : 245    0.19 s    vertices: 8
+c2-8-0064 : 437    0.34 s    vertices: 8
+c2-8-0128 : 1372    1.01 s    vertices: 8
+c2-8-0256 : 3665    2.64 s    vertices: 8
+c2-8-0512 : 4930    3.72 s    vertices: 8
+c2-8-1024 : 14188    10.22 s    vertices: 8
+c2-8-2048 : 29509    22.12 s    vertices: 8
+c2-8-4096 : 50324    36.48 s    vertices: 8
+geocomp/convexhull/incr_prob.py :
+c2-8-1500 : 18386    13.71 s    vertices: 8
+c2-8-2500 : 26122    19.00 s    vertices: 8
+c2-8-3000 : 42172    30.87 s    vertices: 8
+c2-8-3500 : 42488    31.94 s    vertices: 8
+geocomp/convexhull/incr_prob.py :
+c2-8-1500 : 17093    12.63 s    vertices: 8
+c2-8-2500 : 40514    29.42 s    vertices: 8
+c2-8-3000 : 38715    28.56 s    vertices: 8
+c2-8-3500 : 45296    33.19 s    vertices: 8
+geocomp/convexhull/incr_prob.py :
+c2-8-1500 : 17541    12.95 s    vertices: 8
+c2-8-2500 : 32905    24.71 s    vertices: 8
+c2-8-3000 : 44672    32.81 s    vertices: 8
+c2-8-3500 : 38556    29.49 s    vertices: 8
+geocomp/convexhull/incr_prob.py :
+c2-8-1500 : 16934    12.74 s    vertices: 8
+c2-8-2500 : 34918    25.85 s    vertices: 8
+c2-8-3000 : 39353    29.38 s    vertices: 8
+c2-8-3500 : 39682    30.56 s    vertices: 8
