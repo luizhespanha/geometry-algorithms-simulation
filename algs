@@ -1,8 +1,0 @@
-geocomp/convexhull/graham.py
-geocomp/convexhull/mergehull.py
-geocomp/convexhull/quickhull.py
-geocomp/convexhull/bhatta_sen.py
-geocomp/convexhull/chan.py
-geocomp/convexhull/incr_prob.py
-geocomp/convexhull/incremental.py
-geocomp/convexhull/gift.py
