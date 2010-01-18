@@ -1,0 +1,79 @@
+#!/usr/bin/env python
+
+import control
+
+class Pol2:
+	def __init__ (self, pontos):
+		#self.canvas = control.get_canvas ()
+		self.cid = {}
+		self.hid = {}
+		self.hidp = {}
+
+		p = self.pts = pontos[0]
+
+		for i in range (1, len (pontos)):
+			p.next = pontos[i]
+			pontos[i].prev = p
+			p = p.next
+
+		p.next = self.pts
+		self.pts.prev = p
+			
+	def __repr__ (self):
+		ret = '[ '
+		p = self.pts
+		while p.next != self.pts:
+			ret = ret + `p` + ', '
+			p = p.next
+		ret = ret + `p`
+		ret = ret + ' ]'
+		return ret
+		
+
+	def hilight (self, color_line = 'green', color_point = 'red'):
+		p = self.pts
+		while p.next != self.pts:
+			self.hid[p] = p.lineto (p.next, color_line)
+			self.hidp[p] = p.hilight (color_point)
+			p = p.next
+		self.hid[p] = p.lineto (p.next, color_line)
+		self.hidp[p] = p.hilight (color_point)
+		control.update ()
+
+	def plot (self, color = 'red'):
+		p = self.pts
+		while p.next != self.pts:
+			self.cid[p] = p.lineto (p.next, color)
+			p = p.next
+		self.cid[p] = p.lineto (p.next, color)
+		control.update ()
+
+	
+	def hide (self):
+		p = self.pts
+		while p.next != self.pts:
+			#self.canvas.delete (self.cid[p])
+			if self.cid.has_key (p):
+				control.plot_delete (self.cid[p])
+				del (self.cid[p])
+			p = p.next
+
+		if self.cid.has_key (p):
+			control.plot_delete (self.cid[p])
+			del (self.cid[p])
+		control.update ()
+		#p = self.pts
+		#while p.next != self.pts:
+			#p.hide ()
+			#p = a.next
+		#p.hide ()
+	
+	def to_list (self):
+		l = []
+		p = self.pts
+		while p.next != self.pts:
+			l.append (p)
+			p = p.next
+		l.append (p)
+		return l
+

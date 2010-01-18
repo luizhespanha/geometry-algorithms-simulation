@@ -1,0 +1,14 @@
+geocomp/convexhull/mergehull.py :
+circ-012-10000 : 50    0.07 s    vertices: 12
+circ-025-10000 : 125    0.15 s    vertices: 25
+circ-050-10000 : 242    0.32 s    vertices: 50
+circ-100-10000 : 496    0.67 s    vertices: 100
+circ-200-10000 : 1010    1.40 s    vertices: 200
+circ-400-10000 : 2012    2.93 s    vertices: 400
+circ-800-10000 : 4030    6.04 s    vertices: 800
+geocomp/convexhull/mergehull.py :
+circ-500-10000 : 2632    3.70 s    vertices: 500
+circ-600-10000 : 3008    4.46 s    vertices: 600
+circ-700-10000 : 3462    5.23 s    vertices: 700
+geocomp/convexhull/mergehull.py :
+circ-300-10000 : 1520    2.15 s    vertices: 300

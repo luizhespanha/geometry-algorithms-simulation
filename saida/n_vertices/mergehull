@@ -1,0 +1,9 @@
+geocomp/convexhull/mergehull.py :
+n_vertices-004-800 : 5427    5.84 s    vertices: 4
+n_vertices-008-800 : 5504    5.95 s    vertices: 8
+n_vertices-016-800 : 5492    5.95 s    vertices: 16
+n_vertices-032-800 : 5393    5.92 s    vertices: 32
+n_vertices-064-800 : 5386    5.92 s    vertices: 64
+n_vertices-128-800 : 5304    5.92 s    vertices: 128
+n_vertices-256-800 : 5102    5.96 s    vertices: 256
+n_vertices-512-800 : 4706    6.06 s    vertices: 512

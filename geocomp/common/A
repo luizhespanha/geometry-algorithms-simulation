@@ -1,0 +1,26 @@
+#!/usr/bin/env python
+
+from ponto import *
+import control
+
+class Aresta:
+	def __init__ (self, pto_from=None, pto_to=None):
+		self.init = pto_from
+		self.to = pto_to
+	
+	def __repr__ (self):
+		return '[ '+`self.init`+'; '+`self.to`+' ]'
+
+	def hilight (self, color_line='green', color_point='red'):
+		self.lid = self.init.lineto (self.to, color_line)
+		self.pid0 = self.init.hilight (color_point)
+		self.pid1 = self.to.hilight (color_point)
+		return self.lid
+	
+	def plot (self, cor='red'):
+		self.lid = self.init.lineto (self.to, cor)
+		return self.lid
+	
+	def hide (self, id=None):
+		if id == None: id = self.lid
+		control.plot_delete (id)

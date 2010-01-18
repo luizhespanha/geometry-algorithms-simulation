@@ -1,0 +1,16 @@
+geocomp/convexhull/chan.py :
+box-0008 : 65    0.05 s    vertices: 5
+box-0016 : 134    0.11 s    vertices: 8
+box-0032 : 265    0.22 s    vertices: 10
+box-0064 : 538    0.44 s    vertices: 13
+box-0128 : 991    0.80 s    vertices: 11
+box-0256 : 2091    1.75 s    vertices: 14
+box-0512 : 4338    3.64 s    vertices: 16
+box-1024 : 8661    7.41 s    vertices: 16
+box-2048 : 37381    27.46 s    vertices: 20
+box-4096 : 74625    55.62 s    vertices: 22
+geocomp/convexhull/chan.py :
+box-1500 : 27419    21.29 s    vertices: 20
+box-2500 : 45500    35.72 s    vertices: 20
+box-3000 : 54722    43.12 s    vertices: 18
+box-3500 : 63759    50.63 s    vertices: 22
